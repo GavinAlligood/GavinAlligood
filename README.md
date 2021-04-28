@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gavin Alligood</h1>
+<h1 align="center">Hi 👋, I'm Gavin</h1>
 <h3 align="center">I like making game engines and love J.R.R Tolkiens writings</h3>
 
 - 🔭 I’m currently working on **a game Engine called Hercules (currently a private repo)**
