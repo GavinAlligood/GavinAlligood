@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
-- 🔭 I’m currently working on a **Game Engine called Hercules** (currently a private repo, development also slowed due to school)
+- 🔭 I’m currently working on a Game Engine called Hercules (currently a private repo, development also slowed due to school)
 
-- 🌱 I’m currently learning **Game engine design, and i want to start learning QT**
+- 🌱 I’m currently learning Game engine design, and i want to start learning QT
 
 - ♥  I enjoy reading J.R.R Tolkien and I am a fan of the Metro and S.T.A.L.K.E.R game series
 
