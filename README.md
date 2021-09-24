@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gavin</h1>
-- 🔭 I’m currently working on a game Engine called Hercules (currently a private repo, development also slowed due to school)
+- 🔭 I’m currently working on a **Game Engine called Hercules** (currently a private repo, development also slowed due to school)
 
 - 🌱 I’m currently learning **Game engine design, and i want to start learning QT**
 
