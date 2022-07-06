@@ -1,4 +1,4 @@
-I like programming as a hobby. I am particularly interested in the development of game engines. I am currently working on my own engine, called "Hercules"
+I am interested in the development of game engines. I am currently working on my own engine, called "Hercules"
 
 Ignore past spelling errors in commits I was probably tired
 
